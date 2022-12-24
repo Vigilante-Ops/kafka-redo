@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consumerTwo/consumerTwo.iml" filepath="$PROJECT_DIR$/consumerTwo/consumerTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kafka-project.iml" filepath="$PROJECT_DIR$/.idea/kafka-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-kafka-tutorial/springboot-kafka-tutorial.iml" filepath="$PROJECT_DIR$/springboot-kafka-tutorial/springboot-kafka-tutorial.iml" />
+    </modules>
+  </component>
+</project>
